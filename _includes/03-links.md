@@ -1,1 +1,1 @@
-(GitHub)(https://github.com/brendacgoncalves97)
+[GitHub](https://github.com/brendacgoncalves97)
